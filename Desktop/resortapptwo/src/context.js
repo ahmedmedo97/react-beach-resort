@@ -22,7 +22,7 @@ class RoomProvider extends Component {
     pets: false
   };
   //getData
-
+  //new commit
   getData = async () => {
     try {
       let response = await Client.getEntries({
